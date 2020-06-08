@@ -1,2 +1,2 @@
 # cloud-projects
-Cloud Projects performed by me
+Cloud Projects using AWS Technologies

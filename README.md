@@ -1,2 +1,2 @@
 # cloud-project
-Various cloud projects performed by me over time 
+A Repository for My Cloud Projects 
